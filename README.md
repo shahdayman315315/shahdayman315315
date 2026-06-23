@@ -1,257 +1,203 @@
-# shahdayman315315
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hi, I'm Shahd Ayman
+<div align="center">
 
-<h3 align="center">
-Backend .NET Developer • Software Engineering Enthusiast • Computer Science Student
-</h3>
+# 👋 Hi, I'm Shahd Ayman
 
-<p align="center">
-Building scalable backend systems with ASP.NET Core, Clean Architecture and modern software engineering practices.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=Backend+.NET+Developer;Software+Engineering+Enthusiast;ASP.NET+Core+%7C+Clean+Architecture;Always+Learning+New+Technologies"/>
+
+### Building scalable backend systems with modern .NET technologies.
+
+<p>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_CV">
+<img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=readme"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7F52FF)
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-```csharp
+```cs
 public class ShahdAyman
 {
     public string Role => ".NET Backend Developer";
-    public string Education => "Faculty of Computers & Information Sciences";
-    public string CurrentFocus => "Backend Engineering & Software Architecture";
 
-    public string[] Technologies =>
-    {
-        "ASP.NET Core",
-        ".NET 8",
-        "REST APIs",
-        "SQL Server",
-        "Entity Framework Core",
-        "Azure",
-        "Clean Architecture"
-    };
+    public string Education =>
+        "Computer Science Student";
 
-    public string[] CurrentlyLearning =>
+    public string Passion =>
+        "Backend Engineering & Software Architecture";
+
+    public string Building =>
+        "Scalable, secure and maintainable applications.";
+
+    public string[] Learning =>
     {
         "Docker",
         "AWS",
-        "Domain Driven Design",
-        "System Design",
-        "Microservices"
+        "DDD",
+        "System Design"
     };
-
-    public string Motto =>
-        "Write clean code. Build scalable systems. Never stop learning.";
 }
 ```
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css,python"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,python,html,css,js,git,github,azure,docker,visualstudio"/>
+
 </p>
 
-### Backend
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat"/>
+
+<img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat"/>
+
+<img src="https://img.shields.io/badge/Entity_Framework_Core-6DB33F?style=flat"/>
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat"/>
+
+<img src="https://img.shields.io/badge/SignalR-7C3AED?style=flat"/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=flat"/>
+
+<img src="https://img.shields.io/badge/Clean_Architecture-2563EB?style=flat"/>
+
+<img src="https://img.shields.io/badge/SOLID-10B981?style=flat"/>
+
+<img src="https://img.shields.io/badge/Design_Patterns-0F766E?style=flat"/>
+
+<img src="https://img.shields.io/badge/CQRS-F97316?style=flat"/>
+
+<img src="https://img.shields.io/badge/MediatR-9333EA?style=flat"/>
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat"/>
+
 </p>
 
-* ASP.NET Core
-* Web API
-* MVC
-* REST APIs
-* Entity Framework Core
-* LINQ
-* SignalR
-* Authentication & Authorization
-* JWT
-* ASP.NET Core Identity
-
 ---
 
-### Database
+# 🚀 Featured Project
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-* SQL Server
-* Database Design
-* Query Optimization
-
----
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=azure,docker,githubactions,git"/>
-</p>
-
-* Azure Fundamentals
-* GitHub Actions (CI/CD)
-* Git
-* Docker (Learning)
-
----
-
-### Software Engineering
-
-* ✅ Clean Architecture
-* ✅ SOLID Principles
-* ✅ Design Patterns
-* ✅ Repository Pattern
-* ✅ Unit of Work
-* ✅ CQRS
-* ✅ MediatR
-* ✅ Result Pattern
-* ✅ OOP
-* ✅ Data Structures & Algorithms
-
----
-
-# 🌱 Currently Learning
-
-* 🐳 Docker
-* ☁️ AWS
-* 🏛 Domain Driven Design (DDD)
-* 🏗 System Design
-* ⚡ Distributed Systems
-* 🚀 Backend Performance Optimization
-
----
-
-# 🚀 Featured Projects
+<div align="center">
 
 ## ⚡ PowerGuard EMS
 
 Enterprise-grade Energy Management Platform.
 
-**Highlights**
+🏗 Clean Architecture
 
-* Clean Architecture
-* CQRS + MediatR
-* SignalR
-* JWT Authentication
-* Azure Deployment
-* GitHub Actions CI/CD
+⚡ CQRS + MediatR
 
----
+📡 SignalR
 
-## 📦 Stockyo
+🔐 JWT Authentication
 
-Multi-Tenant Inventory Management System.
+☁ Azure Deployment
 
-**Features**
+🚀 GitHub Actions CI/CD
 
-* Multi-Tenant Architecture
-* Batch Tracking
-* Inventory Analytics
-* Secure REST APIs
-* Clean Architecture
+<br>
 
----
+<a href="YOUR_REPO">
 
-## 🛒 LogisticsHub
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 
-Enterprise E-Commerce & Logistics API.
+</a>
 
-Built with
-
-* ASP.NET Core 8
-* Stripe Integration
-* Identity
-* JWT
-* Refresh Tokens
-* Repository Pattern
-* Global Exception Handling
-* Caching
+</div>
 
 ---
 
-## 💼 Rezk
+# 🌱 Currently Exploring
 
-Recruitment & Local Business Platform.
+```text
+🐳 Docker
 
-* Secure REST APIs
-* Email Notifications
-* SQL Server
-* Authentication
-* Role-based Authorization
+☁ AWS
 
----
+🏛 Domain-Driven Design
 
-# 📈 What I'm Passionate About
-
-I enjoy building backend systems that are:
-
-* Scalable
-* Secure
-* Maintainable
-* Production Ready
-
-I'm especially interested in Software Architecture, Distributed Systems, Cloud Computing, and solving real-world engineering problems.
+🏗 System Design
+```
 
 ---
 
-# 🎯 Beyond Programming
-
-When I'm away from code you'll probably find me:
-
-🎨 Drawing
-
-📈 Learning Business
-
-🎤 Improving Presentation Skills
-
-📚 Reading about Software Engineering
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🏆 Highlights
 
-<p align="center">
+✨ DEPI .NET Graduate
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+🚀 ITI .NET Trainee
 
-</p>
+💙 Passionate about Backend Engineering
+
+📚 Continuous Learner
+
+🎯 Strong Foundation in Software Engineering
 
 ---
 
-# 🤝 Let's Connect
+# 🌍 Connect
 
-<p align="left">
+<p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-GitHub
+<a href="YOUR_GITHUB">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
 </a>
 
-•
+<a href="YOUR_LINKEDIN">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-LinkedIn
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
 
-•
+<a href="mailto:YOUR_EMAIL">
 
-<a href="mailto:shahdayman315315@gmail.com">
-Email
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
 </a>
 
 </p>
@@ -260,6 +206,22 @@ Email
 
 <p align="center">
 
-### ⭐ *"Great software isn't built by writing more code... it's built by designing better systems."*
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </p>
+
+---
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ *Code with purpose. Design with clarity. Learn without limits.*
+
+</div>
