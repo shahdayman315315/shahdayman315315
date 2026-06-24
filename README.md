@@ -114,7 +114,7 @@ Enterprise-grade Energy Management Platform designed to monitor industrial energ
 
 <br>
 
-<a href="(https://github.com/shahdayman315315/PowerGuard)">
+<a href="https://github.com/shahdayman315315/PowerGuard">
 
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 
@@ -163,11 +163,6 @@ Enterprise-grade Energy Management Platform designed to monitor industrial energ
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahdayman315315&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 ---
 
