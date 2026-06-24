@@ -4,25 +4,25 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=Backend+.NET+Developer;Software+Engineering+Enthusiast;ASP.NET+Core+%7C+Clean+Architecture;Always+Learning+New+Technologies"/>
 
-### Building scalable backend systems with modern .NET technologies.
+### Crafting scalable backend solutions with .NET, clean architecture, and a passion for continuous learning.
 
 <p>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/shahd-ayman315" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_CV">
-<img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=readme"/>
+<a href="https://drive.google.com/file/d/13RBlr6_gPPUyRMSVx5-YE0ij8-Y5_3Eu/view" target="_blank">
+<img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:shahdayman315315@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7F52FF)
+![](https://komarev.com/ghpvc/?username=shahdayman315315&style=for-the-badge&color=7F52FF)
 
 </div>
 
@@ -30,25 +30,22 @@
 
 # 💫 About Me
 
-```cs
+```csharp
 public class ShahdAyman
 {
     public string Role => ".NET Backend Developer";
 
-    public string Education =>
-        "Computer Science Student";
+    public string About =>
+        "Passionate about building scalable backend solutions with clean architecture and modern engineering practices.";
 
-    public string Passion =>
-        "Backend Engineering & Software Architecture";
-
-    public string Building =>
-        "Scalable, secure and maintainable applications.";
+    public string CurrentFocus =>
+        "ASP.NET Core • Software Architecture • Cloud";
 
     public string[] Learning =>
     {
         "Docker",
         "AWS",
-        "DDD",
+        "Domain-Driven Design",
         "System Design"
     };
 }
@@ -100,7 +97,7 @@ public class ShahdAyman
 
 ## ⚡ PowerGuard EMS
 
-Enterprise-grade Energy Management Platform.
+Enterprise-grade Energy Management Platform designed to monitor industrial energy consumption in real time.
 
 🏗 Clean Architecture
 
@@ -116,7 +113,7 @@ Enterprise-grade Energy Management Platform.
 
 <br>
 
-<a href="YOUR_REPO">
+<a href="YOUR_POWERGUARD_REPO">
 
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 
@@ -140,81 +137,34 @@ Enterprise-grade Energy Management Platform.
 
 ---
 
+# 🎯 Current Goals
+
+- 🚀 Building production-ready backend applications
+- ☁️ Exploring Cloud & DevOps
+- 🏛️ Mastering Software Architecture & DDD
+- 🤝 Open to Backend .NET Internship opportunities
+
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shahdayman315315&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="60%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdayman315315&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=shahdayman315315&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
-
-# 🏆 Highlights
-
-✨ DEPI .NET Graduate
-
-🚀 ITI .NET Trainee
-
-💙 Passionate about Backend Engineering
-
-📚 Continuous Learner
-
-🎯 Strong Foundation in Software Engineering
-
----
-
-# 🌍 Connect
-
 <p align="center">
 
-<a href="YOUR_GITHUB">
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</a>
-
-<a href="YOUR_LINKEDIN">
-
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-
-<img src="https://skillicons.dev/icons?i=gmail"/>
-
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahdayman315315&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
