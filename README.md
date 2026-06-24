@@ -147,27 +147,26 @@ Enterprise-grade Energy Management Platform designed to monitor industrial energ
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shahdayman315315&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdayman315315&layout=compact&langs_count=6&hide=dart,cmake&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdayman315315&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=shahdayman315315&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=shahdayman315315&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+<div align="center">
+
+<sub><i>📈 Live GitHub statistics</i></sub>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ *Code with purpose. Design with clarity. Learn without limits.*
+### ⭐ *Crafting clean code. Building scalable systems. Never stop learning.*
 
 </div>
