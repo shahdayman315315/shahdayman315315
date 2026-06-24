@@ -151,15 +151,13 @@ Enterprise-grade Energy Management Platform designed to monitor industrial energ
 
 <p align="center">
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdayman315315&layout=compact&langs_count=6&hide=dart,cmake,assembly,swift&theme=tokyonight&hide_border=true"/>
-
-<img width="47%" src="https://streak-stats.demolab.com?user=shahdayman315315&theme=tokyonight&hide_border=true"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=shahdayman315315&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <div align="center">
 
-<sub><i>📈 Live GitHub Statistics</i></sub>
+<sub><i>📈 Live GitHub contribution statistics</i></sub>
 
 </div>
 
