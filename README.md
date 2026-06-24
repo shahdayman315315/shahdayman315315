@@ -22,8 +22,6 @@
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=shahdayman315315&style=for-the-badge&color=7F52FF)
-
 </div>
 
 ---
@@ -35,17 +33,20 @@ public class ShahdAyman
 {
     public string Role => ".NET Backend Developer";
 
-    public string About =>
-        "Passionate about building scalable backend solutions with clean architecture and modern engineering practices.";
+    public string Education =>
+        "Computer Science Student";
 
-    public string CurrentFocus =>
-        "ASP.NET Core • Software Architecture • Cloud";
+    public string Passion =>
+        "Backend Engineering & Software Architecture";
+
+    public string Building =>
+        "Scalable, secure and maintainable applications.";
 
     public string[] Learning =>
     {
         "Docker",
         "AWS",
-        "Domain-Driven Design",
+        "DDD",
         "System Design"
     };
 }
@@ -113,7 +114,7 @@ Enterprise-grade Energy Management Platform designed to monitor industrial energ
 
 <br>
 
-<a href="YOUR_POWERGUARD_REPO">
+<a href="(https://github.com/shahdayman315315/PowerGuard)">
 
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 
